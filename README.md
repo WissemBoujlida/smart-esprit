@@ -27,5 +27,4 @@ cd path_to_project_folder/src
 
 # Application  demo video
 
-
-https://github.com/WissemBoujlida/smart-esprit/blob/main/app_demo_vid.mp4
+Watch the application  [demo video](https://esprittncom-my.sharepoint.com/:v:/g/personal/wissem_boujlida_esprit_tn/ERd16NDlrXZDj81nRhy8Ne8BZbABZqC9R4MawbsMuZCAlg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GEu7gv)!
